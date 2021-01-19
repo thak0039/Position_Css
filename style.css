@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+body {
+    background-color: #ff301f;
+}
+
+nav {
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+.bgblack {
+    background-color: black;
+}
+
+.bg1 {
+    background-color: darkorchid;
+}
+
+.bg2 {
+    background-color: rgb(56, 9, 184);
+}
+
+.bg3 {
+    background-color: rgb(30, 190, 102);
+}
+
+.bg4 {
+    background-color: rgb(204, 50, 83);
+}
+
+.bg5 {
+    background-color: rgb(79, 184, 245);
+}
+
+.box {
+    width: 90%;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.circle {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 700px;
+    background-color: #f1cfd4;
+    border-radius: 0 1% 98% 0%;
+}
+
+.inner-circle {
+    padding: 230px 230px 0 60px;
+    text-align: left;
+}
+
+.hilight {
+    margin: 15px 0;
+}
+
+.cmpname {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 900;
+    margin-right: 90px;
+    color: #e01d0f;
+}
+
+.menu {
+    padding: 10px;
+    margin-right: 40px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.menuright {
+    margin-left: 30%;
+}
+
+button {
+    padding: 1rem;
+    padding: 1rem;
+    width: 130px;
+    background-color: #e01d0f;
+    border: none;
+    color: white;
+}
+
+.image-travel {
+    position: absolute;
+    top: 18%;
+    right: 10%;
+    width: 43%;
+}
+
+.list-of-place {
+    width: 100%;
+    height: 475px;
+}
+
+.wp1 {
+    position: relative;
+    top: -65px;
+    left: 65px;
+}
+
+.wp2 {
+    position: relative;
+    top: -15px;
+    left: -157px;
+}
+
+.wp3 {
+    position: relative;
+    top: 49px;
+    left: -360px;
+}
+
+.detail-text {
+    width: 800px;
+    position: relative;
+    top: 150px;
+    left: 45%;
+}
